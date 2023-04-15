@@ -7,7 +7,7 @@ const WhatGPT3 = () => {
       <div className="gpt3__whatgpt3-feature">
         <Feature
           title="What is GPT-3"
-          text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by."
+          text="We are at the forefront of the latest advancements in natural language processing with our use of GPT-3 technology. Our platform harnesses the power of GPT-3 to provide cutting-edge language solutions, such as automated content creation and language translation, that help businesses and individuals achieve their goals more efficiently and effectively."
         />
       </div>
       <div className="gpt3__whatgpt3-heading">
@@ -19,15 +19,15 @@ const WhatGPT3 = () => {
       <div className="gpt3__whatgpt3-container">
         <Feature
           title="Chatbots"
-          text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. "
+          text="We specialize in creating chatbots, which are AI programs designed to simulate human conversation. With our chatbots, you can provide instant, personalized assistance to your customers and improve their overall experience with your business "
         />
         <Feature
           title="Knowledgebase"
-          text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments"
+          text="We are a knowledge-centered organization, dedicated to providing high-quality, accurate information to our users. Our team of experts researches and verifies all information to ensure that our users have access to reliable and up-to-date knowledge"
         />
         <Feature
           title="Education"
-          text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments"
+          text="Education is key to unlocking one's potential, and we're here to help you do just that. Our platform offers a range of educational resources, from online courses to interactive learning tools, to help you acquire new skills and knowledge"
         />
       </div>
     </div>

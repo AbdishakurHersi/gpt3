@@ -7,13 +7,17 @@ const Header = () => {
     <div className="gpt3__header section__padding" id="home">
       <div className="gpt3__header-content">
         <h1 className="gradient__text">
-          Let&apos;s Build Something amazing with GPT-3 OpenAI
+          Discover the Power of OpenAI: Paving the Way for a Smarter, More
+          Connected World
         </h1>
         <p>
-          Yet bed any for travelling assistance indulgence unpleasing. Not
-          thoughts all exercise blessing. Indulgence way everything joy
-          alteration boisterous the attachment. Party we years to order allow
-          asked of.
+          We're dedicated to exploring the world of OpenAI and the possibilities
+          it holds for the future. OpenAI is a cutting-edge artificial
+          intelligence research organization that's pushing the boundaries of
+          what's possible with machine learning and AI. By developing advanced
+          algorithms, training models on massive data sets, and collaborating
+          with experts from around the world, OpenAI is paving the way for a
+          smarter, more connected world.
         </p>
 
         <div className="gpt3__header-content__input">

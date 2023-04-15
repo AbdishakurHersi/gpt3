@@ -3,20 +3,20 @@ import "./Features.css";
 const Features = () => {
   const featureData = [
     {
-      title: "Improving end distrusts instantly ",
-      text: "From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.",
+      title: "Innovate and Excel",
+      text: "Embracing Innovation: How to Stay Ahead of the Curve in a Rapidly Evolving World - This section provides insights and strategies for individuals and organizations to stay competitive in a rapidly evolving world. Topics covered may include emerging technologies, agile methodologies, and fostering a culture of innovation.",
     },
     {
-      title: "Become the tended active",
-      text: "Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.",
+      title: "Innovate and Excel",
+      text: "Future-Proofing Your Career: Navigating the Job Market in an Age of Automation and Artificial Intelligence - This section explores the impact of automation and AI on the job market and provides guidance on how to prepare for the future of work. Topics covered may include upskilling, reskilling, and adapting to new technologies.",
     },
     {
-      title: "Message or am nothing",
-      text: "Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.",
+      title: "Sustainable Community Living",
+      text: "Sustainable Living: Creating a Greener, Cleaner Future for Everyone - This section focuses on the importance of sustainability and provides practical tips for individuals and organizations to reduce their environmental impact. Topics covered may include renewable energy, waste reduction, and sustainable transportation.",
     },
     {
-      title: "Really boy law county",
-      text: "Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush.",
+      title: "Digital Connection Revolution",
+      text: "The Power of Community: Building Stronger Connections in a Digital Age - This section highlights the importance of human connection and provides insights on how to build and strengthen relationships in a digital age. Topics covered may include online communities, social media, and virtual collaboration tools.",
     },
   ];
   return (
