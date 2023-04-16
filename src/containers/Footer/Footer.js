@@ -2,10 +2,10 @@ import "./Footer.css";
 import gpt3Logo from "../../assets/logo.svg";
 const footer = () => {
   return (
-    <div className="gpt3__footer section__padding">
+    <div className="gpt3__footer section__padding" id="">
       <div className="gpt3__footer-heading">
         <h1 className="gradient__text">
-          Do you want to step in to the future before others
+          Do you want to step in to the future before others.
         </h1>
       </div>
 
